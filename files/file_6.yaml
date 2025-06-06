@@ -1,0 +1,19 @@
+id: bc1b125e-0c51-488b-9128-8453201aa6de
+name: worker-2-iter-6
+active: false
+temp: 75.75242037481917
+tags:
+    - tag-2-77
+    - tag-2-75
+    - tag-2-3
+    - tag-2-16
+    - tag-2-0
+metadata:
+    is_valid: false
+    iteration: 6
+    nested:
+        level: 1
+        type: type-0
+    random_float: 67.9590267653669
+    worker_id: 2
+createdat: 2025-06-06T10:33:52.408908956+02:00

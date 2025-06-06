@@ -1,0 +1,19 @@
+id: 8336fdcb-aa4e-40a5-a639-98d911096758
+name: worker-2-iter-7
+active: true
+temp: 72.74293777720541
+tags:
+    - tag-2-7
+    - tag-2-66
+    - tag-2-60
+    - tag-2-15
+    - tag-2-86
+metadata:
+    is_valid: false
+    iteration: 7
+    nested:
+        level: 2
+        type: type-2
+    random_float: 98.87072622586078
+    worker_id: 2
+createdat: 2025-06-06T10:33:52.410601757+02:00

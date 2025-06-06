@@ -1,0 +1,17 @@
+id: 8c882043-4e33-449d-afab-9001cc9b351f
+name: worker-2-iter-4
+active: true
+temp: 98.46861037608954
+tags:
+    - tag-2-54
+    - tag-2-93
+    - tag-2-94
+metadata:
+    is_valid: true
+    iteration: 4
+    nested:
+        level: 3
+        type: type-4
+    random_float: 84.79260867335525
+    worker_id: 2
+createdat: 2025-06-06T10:33:52.406238879+02:00

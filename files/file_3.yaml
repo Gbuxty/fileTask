@@ -1,0 +1,16 @@
+id: cd7b6f0a-e80e-424f-9b50-b4f8554330b3
+name: worker-2-iter-3
+active: true
+temp: 61.78605357867053
+tags:
+    - tag-2-10
+    - tag-2-60
+metadata:
+    is_valid: true
+    iteration: 3
+    nested:
+        level: 8
+        type: type-2
+    random_float: 29.33743986230038
+    worker_id: 2
+createdat: 2025-06-06T10:33:52.405091404+02:00

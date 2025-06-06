@@ -1,0 +1,17 @@
+id: a74e74e5-a9c9-45fb-ac6a-b545d4ea93c5
+name: worker-2-iter-12
+active: false
+temp: 51.679764280144965
+tags:
+    - tag-2-97
+    - tag-2-28
+    - tag-2-59
+metadata:
+    is_valid: false
+    iteration: 12
+    nested:
+        level: 5
+        type: type-2
+    random_float: 8.285496301405384
+    worker_id: 2
+createdat: 2025-06-06T10:33:52.435346107+02:00

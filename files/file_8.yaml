@@ -1,0 +1,18 @@
+id: d6f81f2d-0319-44ee-ad05-21f70087281d
+name: worker-2-iter-8
+active: true
+temp: 119.97922719127541
+tags:
+    - tag-2-54
+    - tag-2-46
+    - tag-2-16
+    - tag-2-52
+metadata:
+    is_valid: true
+    iteration: 8
+    nested:
+        level: 5
+        type: type-3
+    random_float: 61.2407986338691
+    worker_id: 2
+createdat: 2025-06-06T10:33:52.4212249+02:00
